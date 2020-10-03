@@ -1,4 +1,4 @@
-### Hi there, I'm Baseem - ISS [website] 👋
+### Hi there, I'm Baseem👦 - Issadeem [website] 👋
 
 
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning react js, flutter, graphql  🤣
 - 👯 I’m looking  Best Trainning place to enhance my coding knowledge 
 - 🥅 2020 Goals: Learnig ........,Contribute more to Open Source projects
-- ❤️😍 ya ya you believe or not i am also committed with one loveable idiot 
+- ❤️😍 ya ya you believe or not i am also committed with one loveable idiot👩🏻‍💻 
 ### Code with Melody 🎧
 
 <img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="100" />
