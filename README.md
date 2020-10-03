@@ -11,7 +11,11 @@
 - ❤️😍 ya ya you believe or not i am also committed with one loveable idiot 
 ### Code with Melody 🎧
 
-[<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="100" />]
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  width="350" />]
+
+
+(https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
