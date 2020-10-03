@@ -5,8 +5,8 @@
 ## I'm a Developer,Reader, Tech seeker, and Teacher🤣!!
 
 - 🔭 I’m currently working on ...E-commerce (MERN STACK)
-- 🌱 I’m currently learning REACT FLUTTER 🤣
-- 👯 I’m looking to Best Trainning place
+- 🌱 I’m currently learning react js, flutter, graphql  🤣
+- 👯 I’m looking  Best Trainning place to enhance my coding knowledge 
 - 🥅 2020 Goals: Learnig ........,Contribute more to Open Source projects
 - ⚡ Fun fact: I love  one lovable idiot
 ### Spotify Playing 🎧
@@ -61,7 +61,3 @@
 [twitter]:https://twitter.com/IssadeenB
 [facebook]: https://www.facebook.com/waseem.waseem.77736/about
 [linkedin]: https://linkedin.com/in/issadeenbaseem
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
