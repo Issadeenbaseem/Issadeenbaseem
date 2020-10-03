@@ -11,7 +11,7 @@
 - ❤️😍 ya ya you believe or not i am also committed with one loveable idiot 
 ### Code with Melody 🎧
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dnaindia.com%2Fentertainment%2Freport-sp-balasubrahmanyam-health-update-singer-s-son-reveals-there-s-some-mobility-still-on-life-support-2838016&psig=AOvVaw25ozSyO4A4XZaxgFyjNd9Y&ust=1601835344583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDluvKDmewCFQAAAAAdAAAAABAD" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -61,3 +61,7 @@
 [twitter]:https://twitter.com/IssadeenB
 [facebook]: https://www.facebook.com/waseem.waseem.77736/about
 [linkedin]: https://linkedin.com/in/issadeenbaseem
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
