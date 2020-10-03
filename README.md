@@ -1,18 +1,18 @@
-### Hi there, I'm Baseem👦 - Issadeem [website] 👋
+### Hi there, I'm Baseem👦 - Issadeem👨‍🦰 [website] 👋
 
 
 
 ## I'm a Developer,Reader, Tech seeker, and Teacher🤣!!
 
 - 🔭 I’m currently working on ...E-commerce (MERN STACK)
-- 🌱 I’m currently learning react js, flutter, graphql  🤣
+- 🌱 I’m currently learning react js, flutter, graphql  😊
 - 👯 I’m looking  Best Trainning place to enhance my coding knowledge 
 - 🥅 2020 Goals: Learnig ........,Contribute more to Open Source projects
 - ❤️😍 ya ya you believe or not i am also committed with one loveable idiot👩🏻‍💻 
 ### Code with Melody 🎧
 
-<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="100" />
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  width="350" />
+<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="100" /> <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  width="350" />
+
 
 
 
