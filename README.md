@@ -8,10 +8,10 @@
 - 🌱 I’m currently learning react js, flutter, graphql  🤣
 - 👯 I’m looking  Best Trainning place to enhance my coding knowledge 
 - 🥅 2020 Goals: Learnig ........,Contribute more to Open Source projects
-- ⚡ Fun fact: I love  one lovable idiot
-### Spotify Playing 🎧
+- ❤️😍 ya ya you believe or not i am also committed with one loveable idiot 
+### Code with Melody 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dnaindia.com%2Fentertainment%2Freport-sp-balasubrahmanyam-health-update-singer-s-son-reveals-there-s-some-mobility-still-on-life-support-2838016&psig=AOvVaw25ozSyO4A4XZaxgFyjNd9Y&ust=1601835344583000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDluvKDmewCFQAAAAAdAAAAABAD" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
