@@ -1,46 +1,62 @@
-### Hi there, I'm **Baseem Issadeen** 👋  
+# 🚀 Hi there, I'm Baseem Issadeen 👋  
 
-#### 🚀 Full-Stack Developer | Tech Enthusiast | Mentor  
+🌍 **Full-Stack Developer | Tech Enthusiast | Innovator**  
 
-🌍 **Portfolio**: [baseem.s3-website-us-east-1.amazonaws.com](http://baseem.s3-website-us-east-1.amazonaws.com)  
-
----  
-
-### 🚀 About Me  
-
-- 🔭 **Currently working on:** A world-challenging Arab project using **Next.js, Node.js, AWS (S3, Lightsail, EC2), and Laravel**  
-- 🌱 **Currently learning:** React.js, Flutter, GraphQL  
-- 🎯 **Goals for 2024:** Master advanced development concepts & contribute to open-source projects  
-- 👨‍🏫 **Passionate about:** Building scalable apps, exploring new technologies, and mentoring aspiring developers  
-- 💡 **Motto:** "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."  
+🔗 **Portfolio:** [baseem.s3-website-us-east-1.amazonaws.com](http://baseem.s3-website-us-east-1.amazonaws.com)  
+🔗 **LinkedIn:** [baseemissadeen](https://www.linkedin.com/in/baseemissadeen/)  
 
 ---
 
-### 🎧 Code with Melody  
+## 🔥 About Me  
 
-![Now Playing](https://now-playing-codestackr.vercel.app/api/spotify-playing)  
+👨‍💻 Passionate about coding, problem-solving, and building cutting-edge applications. I love working with modern web technologies and exploring the latest innovations in cloud computing.  
 
----
-
-### 🌐 Connect with Me  
-
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg) **Portfolio**](http://baseem.s3-website-us-east-1.amazonaws.com)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) **LinkedIn**](https://linkedin.com/in/issadeenbaseem)  
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg) **Twitter**](https://twitter.com/IssadeenB)  
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg) **Facebook**](https://www.facebook.com/waseem.waseem.77736/about)  
+- 🔭 **Currently working on:** A world-challenging Arab project using **Next.js, Node.js, AWS (S3, Lightsail, EC2), Laravel**  
+- 🌱 **Learning:** Advanced React.js, Flutter, GraphQL, and DevOps best practices  
+- 🎯 **Goal:** Continuously improving my skills and contributing to innovative projects  
+- ❤️ **Quote:** *"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."*  
 
 ---
 
-### 🛠️ Tech Stack  
+## 🔗 Connect with Me  
 
-![Next.js](https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/nextjs/nextjs.png)  
-![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)  
-![AWS](https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c519f841d32c8fc97f27777/topics/aws/aws.png)  
-![Laravel](https://raw.githubusercontent.com/github/explore/f2b17b3b54c38a6f0567fd145e980e601e32d6b6/topics/laravel/laravel.png)  
-![GraphQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png)  
-![Flutter](https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png)  
-![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)  
-![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)  
-![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)  
+[![Website](https://img.shields.io/badge/Website-%2300a79d?style=for-the-badge&logo=google-chrome&logoColor=white)](http://baseem.s3-website-us-east-1.amazonaws.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baseemissadeen/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IssadeenB)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/waseem.waseem.77736/about)  
 
 ---
+
+## 🛠️ Tech Stack  
+
+### 🔹 **Frontend**  
+<img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/nextjs/nextjs.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" width="40" height="40">  
+
+### ⚙️ **Backend & Databases**  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/f2b17b3b54c38a6f0567fd145e980e601e32d6b6/topics/laravel/laravel.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40">  
+
+### 🚀 **Cloud & DevOps**  
+<img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c519f841d32c8fc97f27777/topics/aws/aws.png" width="40" height="40">  
+🔹 **S3 | Lightsail | EC2**  
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">  
+<img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/docker/docker.png" width="40" height="40">  
+
+---
+
+## 🎵 Code with Melody 🎧  
+
+🎶 Coding is best enjoyed with music! Check out what I'm listening to right now:  
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />  
+
+---
+
+### 🏆 **Let's Collaborate!**  
+
+I'm always open to exciting projects, collaborations, and discussions about technology. Feel free to connect and let's build something amazing! 🚀  
