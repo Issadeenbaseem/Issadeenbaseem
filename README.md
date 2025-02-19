@@ -18,34 +18,30 @@
 
 ---
 
-## 🔗 Connect with Me  
-
-[![Website](https://img.shields.io/badge/Website-%2300a79d?style=for-the-badge&logo=google-chrome&logoColor=white)](http://baseem.s3-website-us-east-1.amazonaws.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baseemissadeen/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IssadeenB)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/waseem.waseem.77736/about)  
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🔹 **Frontend**  
-<img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/nextjs/nextjs.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" width="40" height="40">  
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/nextjs/nextjs.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" width="40" height="40">
+</p>
 
 ### ⚙️ **Backend & Databases**  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/f2b17b3b54c38a6f0567fd145e980e601e32d6b6/topics/laravel/laravel.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40">  
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/f2b17b3b54c38a6f0567fd145e980e601e32d6b6/topics/laravel/laravel.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" height="40">
+</p>
 
 ### 🚀 **Cloud & DevOps**  
-<img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c519f841d32c8fc97f27777/topics/aws/aws.png" width="40" height="40">  
-🔹 **S3 | Lightsail | EC2**  
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">  
-<img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/docker/docker.png" width="40" height="40">  
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c519f841d32c8fc97f27777/topics/aws/aws.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/docker/docker.png" width="40" height="40">
+</p>
 
 ---
 
