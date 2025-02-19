@@ -1,71 +1,56 @@
-### Hi there, I'm Baseem👦 - Issadeem👨‍🦰 [website] 👋
+# 👋 Hey, I'm **Baseem Issadeen**  
+🚀 **Full-Stack Developer | Tech Enthusiast | Mentor**  
 
-
-
-## I'm a Developer,Reader, Tech seeker, and Teacher🤣!!
-
-- 🔭 I’m currently working on ...E-commerce (MERN STACK)
-- 🌱 I’m currently learning react js, flutter, graphql  😊
-- 👯 I’m looking  Best Trainning place to enhance my coding knowledge 
-- 🥅 2020 Goals: Learnig ........,Contribute more to Open Source projects
-- ❤️😍 Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.❤️👩🏻‍💻 
-### Code with Melody 🎧
-
-<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/08/17/919678-spb-healthupdate.jpg" width="100" /> <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"  width="350" />
-
-
-
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-
-
-<br />
-<br />
+🌍 **Portfolio**: [baseem.s3-website-us-east-1.amazonaws.com](http://baseem.s3-website-us-east-1.amazonaws.com)  
+💼 **LinkedIn**: [baseemissadeen](https://www.linkedin.com/in/baseemissadeen/)  
 
 ---
 
+## 🚀 About Me  
 
+💻 **Building**: A **world-changing Arab project** using **Next.js, Node.js, AWS (S3, Lightsail, EC2), and Laravel**  
+📚 **Learning**: React.js | Flutter | GraphQL  
+🎯 **2024 Goals**: Master advanced development concepts & contribute to open-source projects  
+🧑‍🏫 **Mentoring**: Aspiring developers & sharing knowledge  
+💡 **Motto**: _"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage."_  
 
+---
 
+## 🎧 Code with Melody  
 
+![Now Playing](https://now-playing-codestackr.vercel.app/api/spotify-playing)  
 
+---
 
+## 🌐 Connect with Me  
 
+🔗 [**Portfolio**](http://baseem.s3-website-us-east-1.amazonaws.com)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/baseemissadeen/)  
+🐦 [**Twitter**](https://twitter.com/IssadeenB)  
+📘 [**Facebook**](https://www.facebook.com/waseem.waseem.77736/about)  
 
+---
 
+## 🛠️ Tech Stack  
 
-[website]: https://baseeminfo.blogspot.com
-[twitter]:https://twitter.com/IssadeenB
-[facebook]: https://www.facebook.com/waseem.waseem.77736/about
-[linkedin]: https://linkedin.com/in/issadeenbaseem
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+💡 **Frontend**:  
+![Next.js](https://raw.githubusercontent.com/github/explore/8b5c4a5a92b87e4973d063bc818cafedc924fd23/topics/nextjs/nextjs.png)  
+![React.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)  
+![Flutter](https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flutter/flutter.png)  
+
+⚙️ **Backend & DevOps**:  
+![Node.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)  
+![Laravel](https://raw.githubusercontent.com/github/explore/f2b17b3b54c38a6f0567fd145e980e601e32d6b6/topics/laravel/laravel.png)  
+![GraphQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png)  
+![MongoDB](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png)  
+![MySQL](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png)  
+
+🚀 **Cloud & Deployment**:  
+![AWS](https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c519f841d32c8fc97f27777/topics/aws/aws.png)  
+🔹 **S3 | Lightsail | EC2**  
+![GitHub](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)  
+
+---
+
+🔥 _"Passionate about building scalable, high-performance applications & pushing the limits of technology."_  
+🚀 _Let's connect & build something amazing together!_  
